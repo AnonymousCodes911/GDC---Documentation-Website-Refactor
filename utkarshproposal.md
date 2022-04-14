@@ -10,7 +10,7 @@ Project Description: ***The Genomic Data Commons (GDC)***  documentation is used
 
 -GitHub – [_youteakay](github.com/AnonymousCodes911)
 
--Gmail : backuputk@gmail.com / taru.ips@gmail.com
+-Gmail : backuputk@gmail.com
 
 -Medium : [YouTeaKay](https://medium.com/@utkarshkumar911)
 
